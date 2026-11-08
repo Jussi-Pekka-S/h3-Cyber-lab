@@ -5,6 +5,7 @@ Heinonen 2026: How to Install Linux to Virtualbox?
 - Goes through downloading a Debian ISO and explanation of what ISO image is.
 - Guides on how to create a new Virtual Machine in VirtualBox. In this case Debian Linux.
 - Has some Post-installation tasks like first system package updation.
+
 My question:
 - How to safely use the VirtualBox?
 
@@ -12,6 +13,7 @@ Karvinen 2020: Command Line Basics Revisited
 - Works as an introduction to Linux command line, perfect beginner-friendly guide.
 - Explains most important commands and concepts.
 - Key topics are: remote access with SSH, navigation of the filesystem, file and directory management & command history + tab completion.
+
 My question:
 - What are the most important commands to learn at first?
 

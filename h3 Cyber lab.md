@@ -26,6 +26,11 @@ Karvinen 2022: Cracking Passwords with Hashcat
 My question:
 - Where does the ethical line of using HashCat go, when it comes to cracking passwords?
 
+a) Presentation title:
+Authentication & Identity: How it works in a global company?
+
+- I have reserved the title and my presentation is on the week w47 Wed 1740 
+
 b) Linux. Install Linux on a virtual machine. Use Debian 13-Trixie:
 
 - Installed Virtual Machine -> Started creating a new one:
